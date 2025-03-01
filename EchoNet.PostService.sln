@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Unit", "Tests.Unit\Tests.Unit.csproj", "{2C28D227-DE2D-4781-B7ED-20A7BE35927E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Integration", "Tests.Integration\Tests.Integration.csproj", "{D77CEA44-1706-489F-A5FF-90FCC59BE064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{2C28D227-DE2D-4781-B7ED-20A7BE35927E}.Release|x64.Build.0 = Release|Any CPU
 		{2C28D227-DE2D-4781-B7ED-20A7BE35927E}.Release|x86.ActiveCfg = Release|Any CPU
 		{2C28D227-DE2D-4781-B7ED-20A7BE35927E}.Release|x86.Build.0 = Release|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Debug|x64.Build.0 = Debug|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Debug|x86.Build.0 = Debug|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Release|x64.ActiveCfg = Release|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Release|x64.Build.0 = Release|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Release|x86.ActiveCfg = Release|Any CPU
+		{D77CEA44-1706-489F-A5FF-90FCC59BE064}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
