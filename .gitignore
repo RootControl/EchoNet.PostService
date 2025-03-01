@@ -73,6 +73,7 @@ TestResults/
 *.trx
 *.coverage
 *.coveragexml
+coveragereport
 
 # Temporary Files
 *.tmp
